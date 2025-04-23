@@ -11,17 +11,6 @@ Este repositorio corresponde a la cursada de la materia **Sintaxis y Semántica 
 
 ---
 
-## 📚 Sobre la materia
-
-Sintaxis y Semántica de los Lenguajes es una asignatura fundamental que introduce los conceptos teóricos y prácticos sobre el diseño, análisis y procesamiento de lenguajes de programación. Incluye temas como:
-
-- Gramáticas formales y autómatas
-- Análisis léxico y sintáctico
-- Construcción de compiladores
-- Semántica operacional y denotacional
-
----
-
 ## 💻 Repositorio
 
 Este espacio será utilizado para almacenar prácticas, trabajos prácticos y ejercicios desarrollados a lo largo del cuatrimestre.

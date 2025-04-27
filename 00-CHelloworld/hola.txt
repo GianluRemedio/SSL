@@ -1,0 +1,3 @@
+Cuál es tu nombre?
+Cuál es tu edad?
+Bienvenido Gian, 21 
